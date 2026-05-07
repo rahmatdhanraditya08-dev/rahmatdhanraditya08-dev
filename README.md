@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there 👋 I'm Raditya
 
-<!--
-**rahmatdhanraditya08-dev/rahmatdhanraditya08-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Instrumentation & Control Engineering Student
 
-Here are some ideas to get you started:
+Passionate about **IoT, Embedded Systems, and Industrial Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🔧 Currently working on **IoT Monitoring Systems & Data Center Inventory**
+* ⚡ Focused on **PLC Programming (Mitsubishi), Automation Systems**
+* 🌱 Learning **Advanced Python, Linux Automation, and Microcontrollers**
+* 🧠 Interested in **Real-time Systems & Industrial Communication (Modbus, Serial, etc.)**
+* ⚡ Fun fact: I make hardware talk to the internet
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+
+* Python
+* C++
+* SQL
+
+### 🔌 Embedded & IoT
+
+* ESP32 / ESP8266
+* Arduino
+* Sensor Integration (Ultrasonic, DHT, LDR, etc.)
+
+### ⚡ Industrial & Automation
+
+* PLC Mitsubishi (GX Works2)
+* Modbus RTU / Serial Communication
+* HMI Basic
+
+### 🖥 Tools & Platforms
+
+* Linux
+* EasyEDA (PCB Design)
+* Git & GitHub
+
+---
+
+## 📊 Featured Projects
+
+* 🔥 IoT Fire Detection System (Web-Based Monitoring)
+* 🌡 DHT22 Webserver (ESP32)
+* 💡 LED Web Control System
+* 🏭 PLC-Based Automation Projects
+
+---
+
+## 📈 GitHub Stats
+
+![Raditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatdhanraditya08-dev\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Let's Connect
+
+* 📍 Indramayu, Indonesia
+* 🎓 Indramayu State Polytechnic
+
+---
+
+## ⚡ Motto
+
+> "Build systems that work, not just systems that look good."
