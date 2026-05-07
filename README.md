@@ -1,52 +1,88 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Raditya;Instrumentation+Engineer;Embedded+System+Enthusiast;Python+and+C%2B%2B+Developer" alt="Typing SVG" />
-</h1>
+<!-- Tampilan Terminal Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=terminal&height=250&color=0d1117&text=rahmatdhanraditya08-dev&fontSize=50&fontAlign=50&fontAlignY=45&animation=twinkling" alt="Banner" />
+</p>
+
+<!-- Teks Mengetik di Bawah Banner -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=System.out.println('Hello+World!');Instrumentation+&+Control;Embedded+Systems+Geek;Coffee+to+Code+Converter" alt="Typing SVG" />
+</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6bm9ueXp6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   </a>
+   <a href="mailto:rahmatdhanraditya08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+   </a>
+   <img src="https://komarev.com/ghpvc/?username=rahmatdhanraditya08-dev&style=for-the-badge&color=2196F3&label=Visitors" alt="Visitors Count" />
 </p>
 
-### 💫 About Me
-Seorang mahasiswa **Teknologi Rekayasa Konstruksi Instrumen dan Kontrol** yang berfokus pada integrasi antara perangkat keras dan perangkat lunak. Saya senang membangun sistem otomasi industri, IoT, dan robotika.
+<hr size=1>
 
-- 🔭 **Sedang Mengerjakan:** Sistem Smart Farming & Robot Transporter.
-- ⚡ **Keahlian Utama:** Embedded Systems, PLC Programming, & Computer Vision.
-- 🌱 **Sedang Belajar:** Deep Learning untuk optimasi industri.
-- 💬 **Tanya saya tentang:** Arduino, ESP32, Modbus RTU, atau MATLAB.
+### 👾 <img src="https://media.giphy.com/media/V4NSRHK77t39S/giphy.gif" width="25"> **About Me (System Initialize...)**
 
----
+Seorang mahasiswa spesialis **Instrumen dan Kontrol** yang hidup di persimpangan antara perangkat keras (*hardware*) dan logika perangkat lunak (*software*). Saya sangat antusias membangun sistem otomasi industri, solusi IoT cerdas, dan pemrograman mikrokontroler tingkat lanjut.
 
-### 🛠 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Microcontrollers** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) |
-| **Industrial Tech** | ![PLC](https://img.shields.io/badge/-PLC%20Mitsubishi-blue?style=flat) ![HMI](https://img.shields.io/badge/-HMI%20%26%20SCADA-orange?style=flat) ![Modbus](https://img.shields.io/badge/-Modbus%20RTU-green?style=flat) |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white) |
-| **Design / CAD** | ![KiCad](https://img.shields.io/badge/-KiCad-31409E?style=flat&logo=kicad&logoColor=white) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-063545?style=flat&logo=autodesk&logoColor=white) |
+- 🤖 **Current Focus:** Embedded ML & Sistem Kendali Otonom.
+- ⚡ **Expertise:** C++, Python, PLC (Mitsubishi), Modbus.
+- 🌱 **Hobby:** Reverse Engineering elektronik dan modifikasi firmware.
+- 🔧 **Tools:** KiCad, AutoCAD, MATLAB/Simulink.
 
 ---
 
-### 🚀 Featured Projects
-*   **IoT Smart Farming:** Sistem monitoring tambak udang Vaname berbasis real-time webserver.
-*   **Robot Transporter:** Robot pengangkut barang dengan kendali ESP32.
-*   **Gesture Recognition:** Asisten bahasa isyarat menggunakan MediaPipe dan OpenCV.
+### 🚀 **My Contribution Snake (Wait for it...)**
+
+<!-- INI AKAN BERISI ANIMASI SNAKE SETELAH LANGKAH 3 DILAKUKAN -->
+![github contribution grid snake animation](https://github.com/rahmatdhanraditya08-dev/rahmatdhanraditya08-dev/blob/output/github-contribution-grid-snake.svg)
+
+*(Animasi di atas akan dimainkan langsung di grafik kontribusi saya secara otomatis setiap hari.)*
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 **Skill Matrix & Tech Stack**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmatdhanraditya08-dev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatdhanraditya08-dev&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Microcontrollers -->
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+</p>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/-MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
+<p align="center">
+  <!-- Industrial & Other Tools -->
+  <img src="https://img.shields.io/badge/-PLC-darkblue?style=for-the-badge" alt="PLC" />
+  <img src="https://img.shields.io/badge/-KiCad-31409E?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:rahmatdhanraditya08@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+### 📊 **Github Analytics (Operational Data)**
+
+<!-- Ganti Tema di Sini (misal: tokyonight, dark, radical, mercury) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahmatdhanraditya08-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Github Stats" height="190px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatdhanraditya08-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="190px"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatdhanraditya08-dev&theme=tokyonight&hide_border=true" alt="Github Streak" />
+</p>
+
+<!-- (OPSIONAL) Bagian Ini Menampilkan Apa yang Sedang Kamu Dengarkan di Spotify.
+     Membutuhkan setup terpisah (lihat bagian 'Extra Cool' di bawah).
+<p align="center">
+  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</p>
