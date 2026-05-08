@@ -1,4 +1,4 @@
-<!-- 
+
   ██████╗  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗ 
   ██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
   ██████╔╝███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
@@ -6,7 +6,6 @@
   ██║  ██║██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
      Instrumentation & Control Engineer | Embedded Hero
--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=rect&height=220&color=0d1117&text=RADITYA%20RAHMAT&fontSize=80&fontAlignY=40&animation=fadeIn&desc=INSTRUMENTATION%20%26%20CONTROL%20ENGINEER&descSize=22&descAlignY=65&fontColor=39D353" />
