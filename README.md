@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&height=200&color=0d1117&text=RADITYA%20RAHMAT&fontSize=70&fontAlignY=40&animation=fadeIn&desc=INSTRUMENTATION%20%26%20CONTROL%20ENGINEER&descSize=20&descAlignY=65&fontColor=39D353" alt="Banner" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Nnp6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L5oM4p7qP1uU6pP4Y4/giphy.gif" alt="Engineer at Work" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Raditya+Rahmat;Embedded+System+Specialist;Industrial+Automation+Enthusiast;Hardware+&+Software+Integrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Raditya+Rahmat;Embedded+System+Specialist;Industrial+Automation+Enthusiast;Hardware+Software+Integration" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,7 +29,7 @@
       <code>PROJECT_01 : IoT Smart Farming (Vaname Shrimp)</code><br>
       <code>PROJECT_02 : Robot Transporter (ESP32 Based)</code><br>
       <code>RESEARCH   : Signal Processing & Computer Vision</code><br>
-      <code>STATUS     : Ready for Industrial Challenges</code>
+      <code>STATUS     : Open for Industrial Challenges</code>
     </td>
   </tr>
 </table>
@@ -46,8 +46,8 @@ I am an **Instrumentation and Control Engineering** student dedicated to synchro
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Microcontrollers** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white) ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) |
-| **PCB Design** | ![Altium](https://img.shields.io/badge/-Altium-A80000?style=flat&logo=altiumdesigner&logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-31409E?style=flat&logo=kicad&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-00599C?style=flat) ![Eagle](https://img.shields.io/badge/-Eagle-0696D7?style=flat&logo=autodesk&logoColor=white) ![EasyEDA](https://img.shields.io/badge/-EasyEDA-0052CC?style=flat) ![Wizard](https://img.shields.io/badge/-PCB%20Wizard-555555?style=flat) |
-| **Mechanical CAD** | ![AutoCAD](https://img.shields.io/badge/-AutoCAD-063545?style=flat&logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA291C?style=flat&logo=solidworks&logoColor=white) ![Fritzing](https://img.shields.io/badge/-Fritzing-919191?style=flat) |
+| **PCB Design** | ![Altium](https://img.shields.io/badge/-Altium-A80000?style=flat&logo=Altium%20Designer&logoColor=white) ![KiCad](https://img.shields.io/badge/-KiCad-31409E?style=flat&logo=KiCad&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-00599C?style=flat) ![Eagle](https://img.shields.io/badge/-Eagle-0696D7?style=flat&logo=autodesk&logoColor=white) ![EasyEDA](https://img.shields.io/badge/-EasyEDA-0052CC?style=flat) ![Wizard](https://img.shields.io/badge/-PCB%20Wizard-555555?style=flat) |
+| **Mechanical CAD** | ![AutoCAD](https://img.shields.io/badge/-AutoCAD-063545?style=for-the-badge&logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA291C?style=for-the-badge&logo=solidworks&logoColor=white) ![Fritzing](https://img.shields.io/badge/-Fritzing-919191?style=flat) |
 | **Industrial Tech** | ![PLC](https://img.shields.io/badge/-PLC%20Mitsubishi-blue?style=flat) ![HMI](https://img.shields.io/badge/-HMI%20%26%20SCADA-orange?style=flat) ![Modbus](https://img.shields.io/badge/-Modbus%20RTU-green?style=flat) ![Haiwell](https://img.shields.io/badge/-Haiwell-red?style=flat) |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/-MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white) |
 
@@ -69,6 +69,13 @@ I am an **Instrumentation and Control Engineering** student dedicated to synchro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatdhanraditya08-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmatdhanraditya08-dev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Log
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahmatdhanraditya08-dev/rahmatdhanraditya08-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
